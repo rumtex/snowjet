@@ -1,6 +1,6 @@
 # snowjet
 Вездеход, который должен стоять на воде, летать, плавать под водой, и разве что не шагать лыжами
-[Preview  video](https://youtube.com/vrwkThVz2R0)
+[Preview  video](https://youtu.be/92j3lC_vuNU)
 
 # info
 [see wiki whitepaper](https://github.com/rumtex/snowjet/wiki)
